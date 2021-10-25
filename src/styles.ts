@@ -25,7 +25,7 @@ export const AppContainer = styled.div`
 	background-color: #3179ba;
 	display: flex;
 	flex-direction: row;
-	heigh: 100%;
+	height: 100%;
 	padding: 20px;
 	windth: 100%;
 `;
